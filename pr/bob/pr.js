@@ -9,7 +9,6 @@ function buildPaymentRequest() {
 
   const supportedInstruments = [{
     supportedMethods: [
-      'basic-card',
     ],
   }];
 
