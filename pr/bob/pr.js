@@ -9,7 +9,7 @@ function buildPaymentRequest() {
 
   const supportedInstruments = [{
     supportedMethods: [
-      "basic-card",
+      "https://paymentweb-169813.appspot.com/test",
     ],
   }];
 
