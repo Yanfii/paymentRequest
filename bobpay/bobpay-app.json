@@ -1,11 +1,11 @@
 {
  "related_applications" : [{
   "platform" : "play", 
-  "id" : "com.example.patrickzhang.payment",
+  "id" : "com.example.patrickzhang.paymenttest",
   "min_version" : "1",
   "fingerprints": [{
       "type": "sha256_cert",
-      "value": "CF:DE:94:1F:F6:92:37:77:57:D4:A7:D5:D2:25:9D:A0:A4:2F:3F:E7:58:5B:4E:DF:48:E4:A7:DC:CD:3D:16:79"
+      "value": "CF:DE:94:1F:F6:92:37:77:57:D4:A7:D5:D2:25:9D:A0:A4:2F:3F:E7:58:5B:4E:DF:48"
     }]
  }]
 }
