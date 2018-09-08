@@ -3,5 +3,5 @@ Made-up payment method called 'Bobpay'. Will respond to webshops which support t
 <br />
 <br />
 Please read: <br />
-goo.gl/ycvq1S for implementation details. <br />
-https://github.com/Yanfii/paymentWeb for the webstore.
+[goo.gl/ycvq1S](goo.gl/ycvq1S) for implementation details. <br />
+[https://github.com/Yanfii/paymentWeb](https://github.com/Yanfii/paymentWeb) for the webstore.
